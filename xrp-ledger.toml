@@ -1,0 +1,29 @@
+# XRP Ledger TOML file for abc.com
+# Created: 2024-11-14
+
+[
+METADATA
+]
+modified = 2024-11-14T00:00:00.000Z
+expires = 2025-11-14T00:00:00.000Z
+
+# Add your validators, accounts, servers, etc. as needed
+[[
+VALIDATORS
+]]
+# Add your validator information if you have any
+
+[[
+ACCOUNTS
+]]
+# Add your XRP Ledger accounts if you have any
+
+[[
+SERVERS
+]]
+# Add your server information if you have any
+
+[[
+PRINCIPALS
+]]
+# Add principal information if desired
